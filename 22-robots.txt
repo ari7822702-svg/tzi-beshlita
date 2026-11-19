@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ari7822702-svg.github.io/tzi-beshlita/sitemap.xml
